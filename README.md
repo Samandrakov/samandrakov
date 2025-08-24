@@ -1,16 +1,31 @@
 
-# Привет, я Данила! 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/00/43/04/0043044fd8e3c55c584ddaf0c9c134e2.gif" width="600"/>
+</p>
 
-### Python-разработчик
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samandrakov&theme=dark)](https://git.io/streak-stats)
+# <span style="color:#AFDBDE">Hello, I am Danila!</span> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samandrakov&show_icons=true&theme=radical)
+### <span style="color:#AFDBDE"> Python developer </span>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=samandrakov&show_icons=true&theme=tokyonight" alt="Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=samandrakov&theme=tokyonight" alt="Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 🛠️ Мой стек:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samandrakov&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### <span style="color:#AFDBDE"> 🛠️ My Tech Stack: </span>
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
-### 📫 Как со мной связаться:
+
+###  <span style="color:#AFDBDE"> 📫 How to reach me: </span>
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/1101710956)
