@@ -1,9 +1,13 @@
 
-
 <p align="center">
-  <img src="media/night_sky.gif" width="600"/>
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <img src="media/night_sky.gif" alt="Animation" />
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 # <span style="color:#AFDBDE">Hello, I am Danila!</span> 
 
