@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/00/43/04/0043044fd8e3c55c584ddaf0c9c134e2.gif" width="600"/>
+  <img src="media/night_sky.gif" width="600"/>
 </p>
 
 
